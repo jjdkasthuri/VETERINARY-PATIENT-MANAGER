@@ -1,2 +1,2 @@
-# VETERINARY-PATIENT-MANAGER
-VETERINARY PATIENT MANAGER
+# VeterinaryPatientManager
+Website to manage veterinary dates
